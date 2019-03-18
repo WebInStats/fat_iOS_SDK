@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IgAWejJNjmU+A5FycA7euh5CMjA=
+		7JCCoUkdlQ7jQyHY6nAic1TiZK8=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftmodule</key>
 		<data>
-		hzFW3g2Eo7vJiT3koTN0tXujBKU=
+		MmRNF/gTZftVgd/qBPrJzPkdmo8=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		KQKWvLBMCrPNqoMUPWVHF9MfxmM=
+		5qkrMJ6+wjqnKHQK1b/o2Cuifek=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hzFW3g2Eo7vJiT3koTN0tXujBKU=
+			MmRNF/gTZftVgd/qBPrJzPkdmo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			z7IBlAYZkI8brOQvMzzagXPcgmhm1qWsXVaMq43L3Bs=
+			GIKKjopIMgDqvgucELHAI7xoNeBc2HoD55KIdKrQQ6c=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KQKWvLBMCrPNqoMUPWVHF9MfxmM=
+			5qkrMJ6+wjqnKHQK1b/o2Cuifek=
 			</data>
 			<key>hash2</key>
 			<data>
-			z9Q+Kl0Jp7V2aC4BuhvdruAsFrvcOGFa4QgO1zmWRbE=
+			fa09k0bl4bAfyim4YrT5LWdn3hH0mvk915elE/bz6ws=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
