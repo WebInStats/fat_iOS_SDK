@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOS_wis_dev'
-  s.version          = '1.51.4'
+  s.version          = '1.51.41'
   s.summary          = 'In-App Marketing and Push Notification Library'
  # s.swift_version = '5.0'
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'webinstats' => 'mobileapp@webinstats.com' }
-  s.source           = { :http => 'https://github.com/WebInStats/fat_iOS_SDK/releases/download/1.51.4/iOS_wis_dev.zip' }
+  s.source           = { :http => 'https://github.com/WebInStats/fat_iOS_SDK/releases/download/1.51.41/iOS_wis_dev.zip' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
